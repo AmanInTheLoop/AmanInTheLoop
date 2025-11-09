@@ -46,10 +46,19 @@
 
 ---
 
-⭐ **Featured Projects:**
-- 🍔 [Food Delivery App (MERN + Stripe)](https://github.com/yourusername/food-delivery-app)
-- 💬 [Chat App with Socket.io](https://github.com/yourusername/chat-app)
-- 🧮 [JS Calculator](https://github.com/yourusername/js-calculator)
+### 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/yourusername/food-delivery-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=food-delivery-app&theme=radical" />
+  </a>
+  <a href="https://github.com/yourusername/chat-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=chat-app&theme=radical" />
+  </a>
+  <a href="https://github.com/yourusername/js-calculator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=js-calculator&theme=radical" />
+  </a>
+</p>
 
 ---
 
