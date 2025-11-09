@@ -8,7 +8,6 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently learning **MERN Stack**, **Next.js**, **Redux**, and **TypeScript**
 - 💻 I’m building a **Full Stack Food Delivery App (MERN + Stripe)**
 - 🎯 Goal: Become a **Skilled Full Stack Developer** & Study **Abroad**
 - ⚡ Fun fact: I love solving problems and improving UI/UX
@@ -18,6 +17,11 @@
 ### 🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,redux,typescript,js,html,css,tailwind,git,github,vscode" />
+</p>
+
+### 📚 I'm Currently Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,redux,typescript" />
 </p>
 
 ---
