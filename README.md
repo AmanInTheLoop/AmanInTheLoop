@@ -46,3 +46,5 @@
 
 ---
 > _“Code. Create. Contribute.”_
+> [![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark)](https://github.com/yourusername)
+
