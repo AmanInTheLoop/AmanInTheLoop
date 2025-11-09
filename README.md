@@ -8,9 +8,9 @@
 ---
 
 ### 🚀 About Me
-- 💻 I’m building a **Full Stack Food Delivery App (MERN + Stripe)**
+- 💻 I’m building a **Full Stack E-commerce Website (MERN + Stripe)**
 - 🎯 Goal: Become a **Skilled Full Stack Developer** & Study **Abroad**
-- ⚡ Fun fact: I love solving problems and improving UI/UX
+- ⚡ Fun fact: I love solving problems
 
 ---
 
