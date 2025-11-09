@@ -49,14 +49,14 @@
 ### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/yourusername/food-delivery-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=food-delivery-app&theme=radical" />
+  <a href="https://github.com/vercel/next.js">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vercel&repo=next.js&theme=radical" />
   </a>
-  <a href="https://github.com/yourusername/chat-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=chat-app&theme=radical" />
+  <a href="https://github.com/reduxjs/redux">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reduxjs&repo=redux&theme=radical" />
   </a>
-  <a href="https://github.com/yourusername/js-calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=js-calculator&theme=radical" />
+  <a href="https://github.com/microsoft/TypeScript">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=TypeScript&theme=radical" />
   </a>
 </p>
 
