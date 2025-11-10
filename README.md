@@ -29,7 +29,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Aman's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark&area=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
