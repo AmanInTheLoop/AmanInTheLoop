@@ -4,17 +4,13 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=AmanInTheLoop&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
----
+
 
 ### 🚀 About Me
 - 💻 I’m building a **Full Stack E-commerce Website (MERN + Stripe)**
 - 🎯 Goal: Become a **Skilled Full Stack Developer** & Study **Abroad**
 - ⚡ Fun fact: I love solving problems
 
----
 
 ### 🧰 Tech Stack
 <p align="center">
@@ -26,14 +22,27 @@
   <img src="https://skillicons.dev/icons?i=nextjs,redux,typescript" />
 </p>
 
----
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmanInTheLoop&show_icons=true&theme=radical" alt="Aman's GitHub stats" />
-<img src="https://activity-graph.herokuapp.com/graph?username=AmanInTheLoop&theme=react-dark&area=true" alt="GitHub Activity Graph" />
+  <!-- Main Stats -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AmanInTheLoop&show_icons=true&count_private=true&theme=radical&hide=prs" alt="Aman's GitHub stats" />
+
+  <!-- Top Languages -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanInTheLoop&layout=compact&theme=radical" alt="Top Languages" />
 </p>
----
+
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=AmanInTheLoop&theme=react-dark&area=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <!-- Optional: Highlight Top Repos -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanInTheLoop&repo=YourRepoName1&theme=radical" alt="Top Repo 1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanInTheLoop&repo=YourRepoName2&theme=radical" alt="Top Repo 2" />
+</p>
 
 ### 🌐 Connect with Me
 <p align="center">
@@ -45,14 +54,10 @@
   </a>
 </p>
 
----
-
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Learner;Next.js+%26+TypeScript+Explorer;Open+Source+Contributor)](https://git.io/typing-svg)
 
-[![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark)](https://github.com/yourusername)
+[![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmanInTheLoop&theme=react-dark)](https://github.com/yourusername)
 
----
 
 > _“Code. Create. Contribute.”_
