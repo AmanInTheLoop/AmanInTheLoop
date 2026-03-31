@@ -4,7 +4,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AmanInTheLoop&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 ---
 
 ### 🚀 About Me
@@ -28,9 +30,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Aman's GitHub stats" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark&area=true" alt="GitHub Activity Graph" />
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmanInTheLoop&show_icons=true&theme=radical" alt="Aman's GitHub stats" />
+<img src="https://activity-graph.herokuapp.com/graph?username=AmanInTheLoop&theme=react-dark&area=true" alt="GitHub Activity Graph" />
 
 ---
 
@@ -39,7 +40,7 @@
   <a href="https://linkedin.com/in/sk-mohammed-aman" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:your@email.com" target="blank">
+  <a href="mailto:skaman.personal@email.com" target="blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
@@ -50,13 +51,13 @@
 
 <p align="center">
   <a href="https://github.com/vercel/next.js">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vercel&repo=next.js&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanInTheLoop&repo=next.js&theme=radical" />
   </a>
   <a href="https://github.com/reduxjs/redux">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reduxjs&repo=redux&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanInTheLoop&repo=redux&theme=radical" />
   </a>
   <a href="https://github.com/microsoft/TypeScript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=TypeScript&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanInTheLoop&repo=TypeScript&theme=radical" />
   </a>
 </p>
 
