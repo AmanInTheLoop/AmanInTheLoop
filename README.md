@@ -32,7 +32,7 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmanInTheLoop&show_icons=true&theme=radical" alt="Aman's GitHub stats" />
 <img src="https://activity-graph.herokuapp.com/graph?username=AmanInTheLoop&theme=react-dark&area=true" alt="GitHub Activity Graph" />
-
+</p>
 ---
 
 ### 🌐 Connect with Me
@@ -47,21 +47,7 @@
 
 ---
 
-### 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/vercel/next.js">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanInTheLoop&repo=next.js&theme=radical" />
-  </a>
-  <a href="https://github.com/reduxjs/redux">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanInTheLoop&repo=redux&theme=radical" />
-  </a>
-  <a href="https://github.com/microsoft/TypeScript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanInTheLoop&repo=TypeScript&theme=radical" />
-  </a>
-</p>
-
----
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Learner;Next.js+%26+TypeScript+Explorer;Open+Source+Contributor)](https://git.io/typing-svg)
 
