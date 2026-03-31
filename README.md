@@ -25,24 +25,16 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <!-- Main Stats -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AmanInTheLoop&show_icons=true&count_private=true&theme=radical&hide=prs" alt="Aman's GitHub stats" />
+<!-- Main stats and top languages side by side -->
+[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanInTheLoop&show_icons=true&count_private=true&theme=radical&hide=prs)](https://github.com/AmanInTheLoop)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanInTheLoop&layout=compact&theme=radical)](https://github.com/AmanInTheLoop)
 
-  <!-- Top Languages -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanInTheLoop&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<!-- Contribution graph -->
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AmanInTheLoop&theme=react-dark&area=true)](https://github.com/AmanInTheLoop)
 
-<p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=AmanInTheLoop&theme=react-dark&area=true" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
-  <!-- Optional: Highlight Top Repos -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanInTheLoop&repo=YourRepoName1&theme=radical" alt="Top Repo 1" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanInTheLoop&repo=YourRepoName2&theme=radical" alt="Top Repo 2" />
-</p>
+<!-- Highlight top repos -->
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=AmanInTheLoop&repo=YourRepoName1&theme=radical)](https://github.com/AmanInTheLoop/YourRepoName1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=AmanInTheLoop&repo=YourRepoName2&theme=radical)](https://github.com/AmanInTheLoop/YourRepoName2)
 
 ### 🌐 Connect with Me
 <p align="center">
